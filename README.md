@@ -3,7 +3,7 @@
 Software Engineer 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🌱 I’m currently learning DSA and Integrating AI to my workflow
-- Studing at [<img src="[https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmain.snsgroups.com%2Fsnsinstitutionslandingpagedesign22%2F&psig=AOvVaw1Mn3wB9nRgIM5OCvlFso5Z&ust=1743440773445000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjnu5GlsowDFQAAAAAdAAAAABAE)">](https://snsce.ac.in/),
+- Studing at [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmain.snsgroups.com%2Fsnsinstitutionslandingpagedesign22%2F&psig=AOvVaw1Mn3wB9nRgIM5OCvlFso5Z&ust=1743440773445000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjnu5GlsowDFQAAAAAdAAAAABAE">](https://snsce.ac.in/),
 - Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
